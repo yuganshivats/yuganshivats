@@ -25,7 +25,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/divyanshu-sethi-ba9149246/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/yuganshi-vats-391b1821a/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://fb.com/divyanshu sethi" target="blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://twitter.com/divyanshusethi4" target="blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/divyanshu.sethi_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
